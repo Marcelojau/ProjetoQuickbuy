@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "QuickBuy.dominio/1.0.0": {
+        "runtime": {
+          "QuickBuy.dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickBuy.dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

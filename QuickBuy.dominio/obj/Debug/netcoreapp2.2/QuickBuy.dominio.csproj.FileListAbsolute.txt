@@ -1,0 +1,15 @@
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.deps.json
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.dll
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.pdb
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.dll
+C:\Users\Marcelo\source\repos\Solucao_quickbuy\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.pdb
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.deps.json
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.dll
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\bin\Debug\netcoreapp2.2\QuickBuy.dominio.pdb
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.AssemblyInfo.cs
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.dll
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.pdb
+C:\Users\Marcelo\Source\Workspaces\QuickBuySolution\QuickBuy.dominio\obj\Debug\netcoreapp2.2\QuickBuy.dominio.csprojAssemblyReference.cache
